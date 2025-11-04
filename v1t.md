@@ -1,6 +1,7 @@
 # 🦆 v1t CTF Write-Up
 
 ---
+my alias during the event was **mrakhi**
 
 ## **DUCK**
 
