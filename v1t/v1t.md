@@ -2,7 +2,7 @@
 
 ---
 my alias during the event was **mrakhi**
-
+![Profile](v1t.png) 
 ## **DUCK**
 
 ### **1. Rules**
